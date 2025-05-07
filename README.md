@@ -6,14 +6,14 @@ This project is a **User-Based Movie Recommendation System** powered by collabor
 
 ## 📁 Project Structure
 
-.
-├── app.py
-├── model.py
-├── utils.py
-├── movies.csv
-├── ratings.csv
-├── tags.csv
-└── README.md
+
+- app.py
+- model.py
+- utils.py
+- movies.csv
+- ratings.csv
+- tags.csv
+- README.md
 
 ---
 
@@ -98,17 +98,17 @@ Visit **http://localhost:5000/recommend/1** in your browser or use tools like Po
 
 ## 🧰 Requirements
 
-Flask
-pandas
-scikit-learn
-faiss-cpu
-numpy
-scipy
-openai
+- Flask
+- pandas
+- scikit-learn
+- faiss-cpu
+- numpy
+- scipy
+- openai
 
 ## ✨ Acknowledgments
 
-MovieLens 25M Dataset
-Groq API
-FAISS
-scikit-learn
+- MovieLens 25M Dataset
+- Groq API
+- FAISS
+- scikit-learn
